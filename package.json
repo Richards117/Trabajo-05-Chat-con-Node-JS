@@ -1,0 +1,12 @@
+{
+  "name": "chatNodejs",
+  "version": "1.0.0",
+  "description": "Chat example for learning purposes",
+  "main": "app.js",
+  "repository": "",
+  "author": "ricardo diaz moreno",
+  "dependencies": {
+    "express": "~4.18.2",
+    "socket.io": "~4.5.3"
+  }
+}
